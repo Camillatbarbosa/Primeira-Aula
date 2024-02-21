@@ -1,0 +1,53 @@
+Camilla Barbosa
+Disciplina Projeto Integrador: Programação Aplicada ao Direito
+Professor Eduardo
+Trabalho 1 – Conceitos Iniciais
+
+1 - Forneça a definição do termo ARQUIVO, no contexto da computação 
+	Conforme o texto intitulado “O Conceito de Arquivo” por Ana Márcia Lutterbach Rodrigues, existem elementos dos arquivos que são presentes e utilizados em qualquer época, ou seja, independe do tempo em que se examina o conceito de arquivo, uma espécie de consenso entre os grandes autores da Arquivologia. 
+	Primeiramente, os arquivos possuem uma certa organicidade, o que significa que eles podem ser um conjunto de documentos, um documento isolado e mais. Inclusive, existem conjuntos que não podem ser considerados arquivos. 
+	O primeiro conceito, ou parte dele, apresentado pelo referido texto é: “um todo formado por partes inter-relacionadas que concorrem para um mesmo fim”. A partir disso, unificando o que li, entendi que existem possibilidades para um arquivo, como combinações possíveis e limites, como se fossem compatíveis ou não. 
+	Além disso, a partir deste pensamento e de noções pessoais anteriores, existem diversos tipos de arquivos como .PDF, .DOC, .HTML e mais. 
+	Existem também, segundo Rodrigues, três etapas fundamentais do arquivo, a primeira seria a “filiação dos documentos às ações que promovem missão definida”, a segunda “dependência dos documentos dos seus pares” e, por fim, “a singularidade do produtor do arquivo". 
+	Quanto à filiação, entende-se que o arquivo se constrói à medida que os documentos são recebidos pela entidade que criou-o, fazendo com que funções recebidas de outra entidade que não a criadora deste não sejam consideradas um documento daquele arquivo, ou seja, essa atividade que gera o arquivo, acaba criando uma identidade para este pequeno grupo. Nesse sentido, a filiação do documento é tida como um fundamento da unicidade, que se refere à "relação de cada documento com a ação do processo de realização da missão que o gerou", todavia, a unicidade não é capaz de determinar se um grupo de documentos é um arquivo, como pode a filiação.
+	Quanto à segunda característica, a dependência do documento de arquivo dos demais criados em prol da mesma missão que o gerou se traduz na necessidade de "ser o resultado das ações realizadas em prol de uma missão definida de uma entidade coletiva, pessoa ou família". Ainda sim, um documento que foi produzido de maneira isolada, mesmo que dentro daquela mesma missão, pode não constituir arquivo, tendo em vista que, o arquivo é um conjunto de documentos produzidos e posteriormente recebidos por uma mesma entidade com uma finalidade específica, ou seja, em prol de uma missão, como nos referimos até agora. Além disso, o arquivo sem os demais documentos que foram gerados no processo de realização em prol de uma mesma missão, não será um arquivo, da mesma forma, se isso permanecer, esse documento será considerado apenas um documento que pertenceu àquele arquivo, mas não um arquivo. Percebe-se então que há uma dependência entre o documento de arquivo com os demais criados em prol dessa missão que o gerou. Por fim, é importante mencionar, conforme mencionado no texto do qual se extrai essa contextualização, que a dependência do documento de arquivo dos demais serve como um fundamento para a cumulatividade bem como do princípio de integralidade ou indivisibilidade dos arquivos.
+	Quanto à terceira e última característica intrínseca ao arquivo, temos a singularidade do produtor de um arquivo, que indica, como já vimos de forma breve anteriormente, documentos produzidos por entidades diferentes não podem ser considerados um arquivo, isto é, a relação do documento com sua entidade produtora é o que lhe fornece identidade de arquivo. Ainda sim, podemos afirmar que não existe um arquivo idêntico a outro, cada um é diferente, de acordo com seu desenvolvimento, seu criador e as ações em prol da realização da missão, que seria sua finalidade. O texto menciona o Manual da Associação dos Arquivistas Holandeses de 1960, com a seguinte citação: 
+“Cada arquivo possui, por assim dizer, personalidade própria, individualidade peculiar, com a qual é mister se familiarizar o arquivista antes de proceder à sua ordenação".
+	Além do mais, o texto aponta a singularidade do produtor como um fundamento do princípio da proveniência.
+	Ao seu final, o texto "O Conceito de Arquivo" de Ana Márcia Lutterbach Rodrigues traz um conceito próprio a partir do desenvolvimento das tr6es características principais do arquivo:  
+"Arquivo é o conjunto dos documentos produzidos e recebidos no decurso das ações necessárias para o cumprimento da missão definida de uma determinada entidade coletiva, pessoa ou família"
+A partir da pesquisa realizada sobre o arquivo, percebi que existem diversas vertentes que tratam do tema, algo que nunca teria imaginado. Os grandes autores, muitas vezes discordam de certas características e aspectos, mas, de maneira geral, este texto procura trazer o que há de mais consensual na literatura dos arquivos, conforme minha opinião pessoal a partir da minha pesquisa. 
+Bibliografia: https://www.aargs.com.br/ICNA/MesasdeComunicacoes/03_14_OConceitoArquivo.pdf 
+
+1.1 - O que é um ARQUIVO DE TEXTO?
+	O arquivo de texto, inicialmente, de maneira resumida, armazena caracteres e é um tipo de arquivo. Os arquivos de texto são um tipo de arquivo simples e possuem ampla compatibilidade, utilizados rotineiramente por usuários de computadores, programadores e mais.
+	Podem ser usados para scripts de programação, ou, simplesmente para conter informações, armazenar dados e mais. Normalmente, os arquivos de texto possuem a sigla .TXT ao final pois existem exceções, uma que me parece mais simples seria o .HTML, tendo em vista que seria sim um documento de texto como me lembro de experiência própria, todavia, por ter finalidade específica possui uma sigla própria. 
+	Este arquivo, diferente de outros tipos de arquivo, pode ser aberto e lido em qualquer dispositivo e na imensa maioria dos softwares. Os arquivos de texto, para que possam armazenar aquele determinado texto, usam codificação de caracteres para que estas estejam atreladas aos bytes. A partir desta pesquisa se extrai que o arquivo de texto é um tipo de arquivo simples, que tramita bem entre diferentes dispositivos e softwares e que é capaz de armazenar texto. 
+
+Bibliografia: 
+https://www.phoenixnap.pt/gloss%C3%A1rio/o-que-%C3%A9-um-arquivo-de-texto
+(Curiosidade) Bibliografia do arquivo de texto em python:
+https://awari.com.br/arquivo-txt-python-aprenda-a-ler-e-manipular-arquivos-de-texto-com-python/?utm_source=blog&utm_campaign=projeto+blog&utm_medium 
+
+2 - Explique o que é uma VARIÁVEL, no contexto da programação de computadores.
+	A variável é um valor manipulado pelos programas enquanto operam, este valor muda durante a operação do programa, ou seja, variam. Essas variações dependem dos comandos do usuário, do programa em si e da operação que toma conta. As variáveis são um elemento indispensável para a programação uma vez que elas funcionam como uma espécie de guia para o programa e suas operações. Também auxiliam na validação de dados e evitam operações proibidas, em suma, auxilia o programa a funcionar de maneira adequada e contínua. As variáveis de programação também podem servir de orientação para que o programa consiga utilizar de maneira eficiente e correta a memória do computador em que opera.
+	De maneira mais específica, as variáveis são um espaço na memória do computador que serve justamente a um dado que altera durante a execução de um algoritmo (Algoritmo, conforme o site da People.com.br que se encontra na parte da bibliografia, seria qualquer sequência finita de passos que levam à execução de uma certa tarefa ou à resolução de um problema) – as variáveis possuem nomes e tipos. Algumas delas são: int, float, double, char, string e boolean. Delas, ressalto a int, que me parece ser uma variável mais simples, utilizadas para definir números inteiros, que podem ser positivos ou negativos mas não podem ter mais de uma casa decimal. 
+	Segundo o site EBAC online (ebaconline.com.br) as variáveis no contexto da programação podem ser caracterizadas por um nome exclusivo dentro do programa, um valor salvo que pode ou não mudar durante a execução do programa, o tipo de dado armazenado e a extensão que pode ser global ou local (global quando puder ser acessada de qualquer lugar do programa e local quando só puder ser acessada dentro de um bloco de código).
+
+Bibliografia:
+https://www.people.com.br/noticias/informatica/o-que-sao-variaveis-e-para-que-elas-servem-na-programacao. 
+https://gaea.com.br/variaveis-programacao/ 
+https://ebaconline.com.br/blog/variaveis-na-programacao-seo
+
+3 - Explique o que seria um SERVIDOR, no contexto da computação.
+	O servidor de computação nada mais é do que um grande computador, como vimos em nossa aula de apresentação. Todavia, mais do que isso, é um computador com um hardware específico que contém grandes e complexos sistemas capazes de entregar serviços para os demais computadores e máquinas no geral. Ele é configurado com um ou mais CPU's e diversas pentes de memória RAM, sistemas de armazenamento de dados e mais. Possui também portas de comunicação e a possibilidade de ter diferentes softwares.
+	Ele é responsável por centralizar as informações e os demais dados de uma rede. O servidor é capaz de executar programas, armazenar arquivos, compartilhar arquivos, prestar serviços e muito mais, pois são muitas possibilidades. Ou seja, conclui-se que ele funciona em uma dinâmica de cliente servidor, onde os clientes são os computadores ou máquinas no geral que usufruem destes serviços/operações e mais fornecidos por aquele servidor.
+Existem diversos tipos de servidores, mas, os mais comuns, ou até mesmo cotidianos na minha opinião seriam a Nuvem, o Email, a Web e os Aplicativos, que quase todos conhecem e usam rotineiramente. 
+
+Bibliografia:
+https://4infra.com.br/o-que-e-um-servidor-em-computacao/
+https://coodesh.com/blog/dicionario/o-que-e-um-servidor/
+https://www.controle.net/faq/o-que-sao-servidores 
+  
+4 - Crie uma conta E um repositório no GITHUB
+https://github.com/Camillatbarbosa/Primeira-Aula.git 
