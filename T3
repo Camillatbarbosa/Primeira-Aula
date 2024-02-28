@@ -9,10 +9,12 @@ https://www.dio.me/articles/escolhendo-a-linguagem-de-programacao-certa-para-ini
 
 
 a) Tente fazer um código mínimo em cada uma delas
-Python: print(Olá, meu nome é Camilla Barbosa) 
+Python: 
+print(Olá, meu nome é Camilla Barbosa) 
 https://awari.com.br/aprenda-os-melhores-codigos-python-para-iniciantes/?utm_source=blog&utm_campaign=projeto+blog&utm_medium=Aprenda%20os%20Melhores%20Códigos%20Python%20para%20Iniciantes 
 
-Java: import java.util.*;
+Java: 
+import java.util.*;
 import java.lang.*;
 import java.io.*;
 
