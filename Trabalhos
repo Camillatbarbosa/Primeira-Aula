@@ -76,9 +76,11 @@ Quem abre é apenas quem tem o software específico.
 
 Exemplos de formatos abertos:
 JSON (linguagem de documentação), TXT (formato de texto sem formatação), HTML.
+Qualquer um pode abrir.
 
     b.2 discuta as implicações relacionadas a dados públicos 
-Ao meu ver, a principal implicação relacionada aos dados públicos quando falamos de formato de dados, se dá devido ao conceito de posse dos dados. Quando um dado é armazenado em um formato proprietário, existe a possibilidade de por algum motivo (sistema obsoleto, intervenção não desejada…) que os dados contidos no sistema não consigam ser acessados (o utilizador fica refém do determinado software utilizado).
+Ao meu ver, a principal implicação relacionada aos dados públicos quando falamos de formato de dados, se dá devido ao conceito de posse dos dados. Quando um dado é armazenado em um formato proprietário, existe a possibilidade de por algum motivo (sistema obsoleto, intervenção não desejada…) que os dados contidos no sistema não consigam ser acessados (o utilizador fica refém do determinado software utilizado). Ou seja, conclui-se que na verdade, o ideal é que dados públicos sejam disponibilizados em arquivos de formato aberto, facilitando o acesso aos dados públicos.
 
 2 – Inclua seus comentários no arquivo de texto NO Github
+
 
