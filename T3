@@ -1,0 +1,41 @@
+Exercício:
+1 - Explique as diferenças entre 3 linguagens de programação:
+Linguagens de programação:Python, Java e Ruby.
+Categorias para diferenciação: Desempenho (engloba o tempo de execução e a portabilidade), Verbosidade (quantidade de palavras usadas nos comandos) e Popularidade.
+Quanto ao desempenho, a linguagem Python é conhecida por uma linguagem um pouco mais lenta. Como ela funciona à base de interpretação, acaba sendo mais lenta que linguagens compiladas. Já o Java, é uma linguagem compilada e interpretada, e por isso, entende-se que possui um desempenho um pouco superior ao do Python. O Ruby, também é uma linguagem interpretada e por isso, acaba tendo um desempenho inferior ao Java, por exemplo. 
+Em relação a verbosidade, é uma categoria de diferenciação interessante tendo em vista que as diferentes linguagens de programação variam muito em seus códigos. Começando pelo Java, ele é o que possui a verbosidade mais acentuada, requer uma quantidade maior de comandos da linguagem, ou seja, é mais extenso. Inclusive, ao executar códigos relativamente semelhantes em linguagens diferentes (como o próprio Python e Ruby), vemos uma diferença bastante significativa no Java, sendo este bem mais extenso. O Ruby e o Python acabam sendo mais dinâmicos e sintéticos. Seus comandos de linguagem são mais enxutos.
+Por fim, no que tange a popularidade, o Python é bastante utilizado para análise de dados, e, além disso, por ser simples e possuir alto nível de legibilidade e multiuso, acaba sendo uma opção de fácil acesso, atraindo o público de iniciantes. A linguagem Java é bastante popular uma vez que é muito versátil, podendo ser executada em várias plataformas diferentes e isso inclui servidores, desktops e muito mais. Ou seja, é uma linguagem que dentre suas vantagens possui alta portabilidade, algo que é muito atrativo, tornando-a muito popular. O Ruby, por sua vez, é pouco utilizado no geral, isto é, por mais que o Ruby on Rails seja bastante popular para o desenvolvimento web, sua aplicação em outras áreas é bastante limitada. 
+https://www.dio.me/articles/escolhendo-a-linguagem-de-programacao-certa-para-iniciantes-python-javascript-java-c-e-ruby#:~:text=Cada%20linguagem%20tem%20suas%20vantagens,Ruby%20é%20expressiva%20e%20amigável. 
+
+
+a) Tente fazer um código mínimo em cada uma delas
+Python: print(Olá, meu nome é Camilla Barbosa) 
+https://awari.com.br/aprenda-os-melhores-codigos-python-para-iniciantes/?utm_source=blog&utm_campaign=projeto+blog&utm_medium=Aprenda%20os%20Melhores%20Códigos%20Python%20para%20Iniciantes 
+
+Java: import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+// The main method must be in a class named "Main".
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Olá, meu nome é Camilla Barbosa");
+    }
+}
+https://king.host/blog/tecnologia/java-para-iniciantes/ 
+
+Ruby: 
+puts "Olá, meu nome é Camilla Barbosa"
+https://www.ruby-lang.org/pt/documentation/quickstart/ 
+
+b) Tente executar o seu código
+Python:
+https://github.com/Camillatbarbosa/Primeira-Aula/blob/main/ExecuçãoPython.png 
+
+Java:
+https://github.com/Camillatbarbosa/Primeira-Aula/blob/main/ExecuçãoJava.png 
+
+Ruby:
+https://github.com/Camillatbarbosa/Primeira-Aula/blob/main/ExecuçãoRuby.png 
+
+2 - Inclua seus comentários no arquivo de texto NO GitHub.
