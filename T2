@@ -1,0 +1,23 @@
+1 - Encontre referências e comente:
+  a. A relação entre a LGPD e os Data Centers no Brasil 
+	A LGPD é uma norma brasileira de proteção de dados, conforme seu próprio nome, Lei Geral de Proteção de Dados Pessoais. Muitos argumentam que foi uma lei um tanto quanto tardia, por isso, muitas empresas de Tecnologia, programas e muito mais, tiveram que se adaptar a essa lei, entrar em conformidade com seus parâmetros. Com os Data Centers, não foi diferente, eles tiveram que se adequar às diretrizes desta norma. 
+	Primeiro, é importante saber o que é um Data Center, que nada mais é do que um espaço que empresas utilizam para guardar aplicativos, informações e mais, ou seja, dados. Segundo o site da Amazon: Um datacenter corresponde a um local físico que armazena máquinas de computação e seus equipamentos de hardware relacionados. Ele contém a infraestrutura de computação que os sistemas de TI exigem, como servidores, unidades de armazenamento de dados e equipamentos de rede. Ou seja, a forma que as informações são coletadas, armazenadas e disponibilizadas terá que se adaptar aos limites legais trazidos por essa norma.
+	Medidas que podem ser adotadas pelos Data Centers seriam, primeiramente, o mapeamento de dados, pois assegura que os dados que estão naquela unidade estão devidamente protegidos. Juntamente a isso, é interessante pensar na política de acessos uma vez que tal medida é capaz de minimizar as possibilidades de vazamentos e/ou roubo. Por fim, o monitoramento, além do presencial, virtual, seria capaz de prevenir ataques virtuais (conforme o site thriveti).
+	Claro que os Data Centers localizados no Brasil devem se adequar ao que está expresso na LGPD, mas surge o questionamento: como a LGPD se aplica a Data Centers fora do Brasil? Isto é, afinal, existem Data Centers localizados fora do Brasil que fornecem serviços de dados para o país. Deve funcionar da seguinte maneira, conforme o que encontra-se no site otg.com.br: todos os dados coletados dentro do Brasil devem ser processados, tratados e armazenados em conformidade com a LGPD, mesmo que o país em que o Data Center esteja localizado não tenha legislação semelhante ou legislação diferente. Todavia, um problema que surge é a dificuldade na aplicação de sanções nos casos de vazamentos de dados, quando com os Data Centers brasileiros, isso é algo mais palpável (e mesmo diante dessa situação, pode-se recorrer a outros diplomas jurídicos para a tutela de seu direito). O caminho que parece mais fácil a ser adotado por Data Centers que não são brasileiros seria o de acordos entre países e empresas, por exemplo, como a Microsoft que está em compatibilidade com os Data Centers que se submetem às regras da LGPD. 
+
+Bibliografia:
+https://www.lgpdbrasil.com.br/veja-quais-sao-os-impactos-da-lgpd-para-os-data-centers/
+https://thriveti.com.br/veja-a-relacao-entre-data-center-e-a-lei-geral-de-protecao-de-dados-lgpd/ 
+https://otg.com.br/entenda-porque-adequar-o-seu-data-center-a-lgpd-e-tao-importante/ 
+
+  b. Formatos de arquivos de dados proprietários e abertos 
+     b.1 forneça exemplos de formatos 
+Exemplos de formatos proprietários:
+MP3, DWG (AutoCad Drawing), DOC (Microsoft Word Document).
+Exemplos de formatos abertos:
+JSON (linguagem de documentação), TXT (formato de texto sem formatação), HTML.
+
+    b.2 discuta as implicações relacionadas a dados públicos 
+Ao meu ver, a principal implicação relacionada aos dados públicos quando falamos de formato de dados, se dá devido ao conceito de posse dos dados. Quando um dado é armazenado em um formato proprietário, existe a possibilidade de por algum motivo (sistema obsoleto, intervenção não desejada…) que os dados contidos no sistema não consigam ser acessados (o utilizador fica refém do determinado software utilizado).
+
+2 – Inclua seus comentários no arquivo de texto NO Github
