@@ -1,0 +1,28 @@
+T4
+
+1) Usando a linguagem de programação Python, implemente um ou mais códigos de exemplo dos seguintes elementos: uma estrutura de repetição; uma estrutura de tomada de decisão. 
+2) Envie seu código e o comprovante de execução para seu repositório no github. 
+3) Envie o link do seu repositório. 
+
+Estrutura de repetição (1):
+n = 10
+while n>3:
+    print(n)
+    n-=1
+
+Estrutura de repetição (2):
+lista = [1, 2, 3, 4, 10]
+for numero in lista:
+    print(numero ** 2)
+
+Estrutura de tomada de decisão:
+# Variável Idade
+idade = 25
+
+# Condição Para Verificar a Idade
+if idade < 18:
+    print("Você é menor de idade.")
+elif idade >= 18 and idade < 65:
+    print("Você é um adulto.")
+else:
+    print("Você é um idoso.")
