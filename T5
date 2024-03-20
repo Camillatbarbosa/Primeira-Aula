@@ -15,5 +15,15 @@ print(re)
 Link do print da tela com a execução: https://github.com/Camillatbarbosa/Primeira-Aula/blob/main/Bubble%20sort.png
 
 2 – implemente um algoritmo que imprima apenas as vogais de uma determinada palavra ou frase. 
+v = "Camilla"
+
+for palavra in v:
+    for c in palavra:
+        if c in 'aeiou':
+            print(c)
+
+Link do print da tela com a execução: https://github.com/Camillatbarbosa/Primeira-Aula/blob/main/Vogais.png
+(Professor, desculpa! Eu só vi que não tinha colocado o link dessa questão hoje na hora da aula. Tudo bem que o prazo é para hoje ainda mas, eu fiz semana passada - quarta - e fiquei super orgulhosa, lembra? Eu te mostrei. Enfim, desculpa, já adicionei aqui).
+
 dica 1: textos no python são sequências 
 dica 2: use uma variável para armazenar a palavra.
